@@ -1,4 +1,4 @@
-// COMP106 Assignment 3 - ATM | James Oakes | u6jo | 201161332 | J.L.R.Oakes@liverpool.ac.uk
+
 
 import java.awt.*;
 import javax.swing.*;
